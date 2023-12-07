@@ -12,8 +12,8 @@ const HeaderContainer = styled.header`
 const Header = () => {
   return (
     <HeaderContainer>
-      <h1>Your Name</h1>
-      <p>Web Developer</p>
+      <h1>Tanmay Piyush Kaushik</h1>
+      <p>Software Developer</p>
     </HeaderContainer>
   );
 };

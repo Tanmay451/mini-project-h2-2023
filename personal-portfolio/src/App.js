@@ -3,7 +3,7 @@ import React from 'react';
 import Header from './components/Header';
 import AboutMe from './components/AboutMe';
 import Skills from './components/Skills';
-import Projects from './components/Projects';
+import Experience from './components/Experience';
 import GlobalStyle from './globalStyles';
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
       <Header />
       <AboutMe />
       <Skills />
-      <Projects />
+      <Experience />
       {/* Add more sections as needed */}
     </div>
   );
