@@ -1,3 +1,3 @@
 # mini-project-h2-2023
 
-Live url: https://eastern-bedrock-269511.web.app (using firebase)
+Explore my dynamic single-page React app, designed to showcase my diverse portfolio. With a seamless user interface, this creation highlights my skills and projects. Hosted on Firebase, the app is accessible online at https://eastern-bedrock-269511.web.app. Navigate through my work, discover my expertise, and experience the essence of my professional journey. From interactive elements to smooth transitions, every detail is crafted to captivate and engage. Dive into my world of creativity and innovation, easily accessible at your fingertips. Witness the intersection of technology and artistry through this personalized and responsive portfolio.
