@@ -12,7 +12,7 @@ const Experience = () => {
       <h2>Experience</h2>
       {/* Display your projects with images, descriptions, etc. */}
       <ul>
-        <li>Software Developer - GOPHERS LAB | Golang Development Services · Full-time</li>
+        <li>Software Developer - GOPHERS LAB</li>
         <li>Software Developer - Tutree, Inc.</li>
         {/* Add more skills */}
       </ul>

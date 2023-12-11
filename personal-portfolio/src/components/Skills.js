@@ -16,10 +16,6 @@ const Skills = () => {
         <li>PostgreSQL</li>
         <li>Redis</li>
         <li>Go (Programming Language)</li>
-        <li>Database Management System (DBMS)</li>
-        <li>Java</li>
-        <li>Machine Learning</li>
-        <li>Python (Programming Language)</li>
         {/* Add more skills */}
       </ul>
     </SkillsContainer>
